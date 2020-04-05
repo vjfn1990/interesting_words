@@ -19,7 +19,7 @@ python main.py
 
 ## Use of virtualenv
 
-The use of 'virtualenv' allows an isolated installation of the components needed to execute the solution. The command 'virtualenv --version' is used to check the proper installation of 'virtualenv' in case is not installed on the system.
+The use of 'virtualenv', allows an isolated installation of the components needed to execute the solution. The command 'virtualenv --version' is used to check the proper installation of 'virtualenv' in case is not installed on the system.
 
 ## Overview of the solution
 
